@@ -14,15 +14,19 @@
 
 1，Class转为Xml
 选中需要转换的class，右键或者Assets菜单，选择相应的菜单执行即可；
+
 2，Xml转为Excel
 选中需要转换的xml，右键或者Assets菜单，选择相应的菜单执行即可。（转换的时候，必须有相应的class相依托）
-1，Excel转为Xml
+
+3，Excel转为Xml
 选中需要转换的Excel，右键或者Assets菜单，选择相应的菜单执行即可。（转换的时候，必须有相应的class相依托）
-1，Class转为Binary
+
+4，Class转为Binary
 选中需要转换的Class，右键或者Assets菜单，选择相应的菜单执行即可。（转换的Class,需先读取Xml数据进行实例化，否则会出现您不想要的结果）
 
 
 支持：
 
 1，siki学院，是一个专门做网络教育的平台，提供unity，UE，java等开发教学。这个项目是在学习完其中一个课程之后，修改而成的；
+
 2，EPPlus，一个读写Excel文档内容的插件。这个项目使用了该插件进行了Excel文档内容的读写。
