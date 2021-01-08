@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataInt>1</dataInt>
+  <dataFloat>0.2</dataFloat>
+  <dataString>dataString</dataString>
+  <DataList DataInt="0" DataFloat="0.002" DataString="String_0" />
+  <DataList DataInt="6" DataFloat="1.002" DataString="String_1" />
+  <DataList DataInt="12" DataFloat="2.002" DataString="String_2" />
+  <DataList DataInt="18" DataFloat="3.002" DataString="String_3" />
+  <DataList DataInt="24" DataFloat="4.002" DataString="String_4" />
+  <DataList DataInt="30" DataFloat="5.002" DataString="String_5" />
+  <DataList DataInt="36" DataFloat="6.002" DataString="String_6" />
+  <DataList DataInt="42" DataFloat="7.002" DataString="String_7" />
+  <DataList DataInt="48" DataFloat="8.002" DataString="String_8" />
+  <DataList DataInt="54" DataFloat="9.002" DataString="String_9" />
+  <DataInt>0</DataInt>
+  <DataFloat>0.1</DataFloat>
+  <DataString>DataString</DataString>
+  <DataStringArray>DataString_0</DataStringArray>
+  <DataStringArray>DataString_1</DataStringArray>
+  <DataStringArray>DataString_2</DataStringArray>
+  <DataStringArray>DataString_3</DataStringArray>
+  <DataStringArray>DataString_4</DataStringArray>
+  <DataStringArray>DataString_5</DataStringArray>
+  <DataStringArray>DataString_6</DataStringArray>
+  <DataStringArray>DataString_7</DataStringArray>
+  <DataStringArray>DataString_8</DataStringArray>
+  <DataStringArray>DataString_9</DataStringArray>
+</TestData>
